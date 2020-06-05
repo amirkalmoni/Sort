@@ -1,0 +1,9 @@
+This program operated using shared memory
+
+The user is prompted to enter either a 1 or a 0 to use either debug mode or silent mode respectively
+
+The user is then prompted to input a 5 value array with commas following each number
+
+The program creates 4 processes that handles two adjacent array indices and swaps them until the array is sorted in descending order
+
+Prints the Minimum, median and maximum 
