@@ -1,6 +1,4 @@
 //Amir Kalmoni
-//100987101	
-//SYSC 4001 Assignmemnt 2
 
 #include <stdbool.h>
 #include <stdlib.h>
