@@ -18,3 +18,5 @@ Goals
 • Check if swap is needed, swap and change the value of state to sorted, if not leave as is and move to the next pair
 • After the state of each index has been changed to sorted, check for max, min, median values
 • Children are killed and semaphores for integer and state array are deleted and program terminates
+
+Written by Amir Kalmoni
